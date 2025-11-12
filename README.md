@@ -16,18 +16,6 @@ S.No	Name of the Apparatus	Range	Quantity
 7	Connecting Wires	As Required	
 
 CIRCUIT DIAGRAM:
-
-Line Regulation
-
-![WhatsApp Image 2025-11-10 at 13 43 16_bb80ac03](https://github.com/user-attachments/assets/d4895fef-9a08-4f6f-94fe-3992296dcc38)
-
-
-
-Load Regulation
-![WhatsApp Image 2025-11-10 at 13 43 17_43c07102](https://github.com/user-attachments/assets/940a1c4f-6755-47ac-82a4-d55e3911b053)
-
-
-
 THEORY:
 	
 A zener diode is heavily doped p-n junction diode, specially made to operate in the break down region. A p-n junction diode normally does not conduct when reverse biased. But if the reverse bias is increased, at a particular voltage it starts conducting heavily. This voltage is called Break down Voltage. High current through the diode can permanently damage the device To avoid high current, we connect a resistor in series with zener diode. Once the diode starts conducting it maintains almost constant voltage across the terminals what ever may be the current through it, i.e., it has very low dynamic resistance. It is used in voltage regulators.
@@ -41,23 +29,12 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
 
-Line Regulation
+<img width="1054" height="518" alt="Screenshot 2025-11-09 111318" src="https://github.com/user-attachments/assets/bfdb25e2-752b-4a42-8b26-950893be8231" />
+<img width="1070" height="526" alt="Screenshot 2025-11-09 111328" src="https://github.com/user-attachments/assets/2795d297-c297-4411-8601-36fedfea4ddb" />
 
-Tabulation
-<img width="767" height="927" alt="Screenshot 2025-11-12 220730" src="https://github.com/user-attachments/assets/0d3e3e6a-bd56-41a8-a685-9a98a41d0167" />
-<img width="1310" height="1001" alt="Screenshot 2025-11-12 220746" src="https://github.com/user-attachments/assets/9fd846c1-fd7f-4636-8cf5-3d5776cd6220" />
+<img width="767" height="927" alt="Screenshot 2025-11-12 220730" src="https://github.com/user-attachments/assets/37027dd1-f248-44e4-b7ea-4d6bdafb1c39" />
 
-Simulation
-
-Line Regulation
-
-![WhatsApp Image 2025-11-10 at 13 43 34_fa865bc1](https://github.com/user-attachments/assets/57c35e1d-bd90-44ff-a6f1-d362589fd753)
-
-
-Load Regulation
-
-![WhatsApp Image 2025-11-10 at 13 43 42_3b4cfb33](https://github.com/user-attachments/assets/3c2f7de2-dbc7-4ee0-bbe8-f3497b98eeb3)
-
+<img width="1310" height="1001" alt="Screenshot 2025-11-12 220746" src="https://github.com/user-attachments/assets/7aeb0604-a9f5-497b-849a-50e23a40307e" />
 
 PRECAUTIONS:
 
@@ -67,5 +44,4 @@ PRECAUTIONS:
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
 
 RESULT:
-
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
